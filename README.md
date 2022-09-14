@@ -2,16 +2,18 @@
 <sub><sup>Pemba Island, Zanzibar, Tanzania :tanzania: - Shot with a Zenit-E & Helios 44-2 58mm on Kodak Ultramax 400 film.</sup></sub>
 
 ## 👋 Hi there, I'm Raf
-I'm a full stack engineer with 10+ years of professional experience, working for companies such as [Rockstar North](https://www.rockstarnorth.com/), [IBM](https://www.ibm.com/) and [SatoshiLabs](https://satoshilabs.com/). I'm a digital nomad and passionate photographer, always looking for the next adventure ✈️
+I'm a full stack engineer with 10+ years of professional experience, having worked for companies such as [Rockstar North](https://www.rockstarnorth.com/), [IBM](https://www.ibm.com/) and [SatoshiLabs](https://satoshilabs.com/) in the past. I'm a digital nomad and passionate photographer, always looking for the next adventure ✈️
 
 At the moment, I'm:
-- 💼 Offering my services via my company [JustRaf](https://justraf.com/) (yep, it's just me)
-- 🏗️ Building a commercial application using [Tauri](https://tauri.app/) and [SolidJS](https://www.solidjs.com/)
-- 🕹️ Working on my own game using [Godot](https://godotengine.org/)
-- 🤝 On [LinkedIn](https://www.linkedin.com/in/rafaelkeramidas/) for professional networking
-- 📝 Sometimes writing on my [blog](https://ker.af/)
-- 📸 Or sometimes publishing photos on my [photography website](https://raf.photography)
-
+- 💼 Offering my services via my company [JustRaf](https://justraf.com/) (yep, it's just me).
+- 🏗️ Building a commercial application using [Tauri](https://tauri.app/) and [SolidJS](https://www.solidjs.com/).
+- 🎲 Working on my own game using [Godot](https://godotengine.org/).
+- 💻 Using Windows 11 and Fedora 36 on an [Asus Zephyrus m16 2022](https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-m16-2022-series/).
+- 💿 Developing with [Visual Studio Code](https://code.visualstudio.com/) and [JetBrains Rider](https://www.jetbrains.com/rider/).
+- 🤝 On [LinkedIn](https://www.linkedin.com/in/rafaelkeramidas/) for professional networking.
+- 🕹️ Playing [Frostpunk](https://www.frostpunkgame.com/) and [Prison Architect](https://www.paradoxinteractive.com/games/prison-architect/).
+- 📝 Sometimes writing on my [blog](https://ker.af/).
+- 📸 Or sometimes publishing photos on my [photography website](https://raf.photography).
 
 ### Favourite tech
 The tech I love to use and I am the most familiar with...
