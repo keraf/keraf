@@ -5,8 +5,7 @@
 I'm a full stack engineer with 10+ years of professional experience, having worked for companies such as [Rockstar North](https://www.rockstarnorth.com/), [IBM](https://www.ibm.com/) and [SatoshiLabs](https://satoshilabs.com/) in the past. I'm a digital nomad and passionate photographer, always looking for the next adventure ✈️
 
 At the moment, I'm:
-- 👨‍💻 Writing backend code for [Craft Docs](https://craft.do), a refreshing take on document editing and note taking.
-- 🏗️ Building a commercial application using [Tauri](https://tauri.app/) and [SolidJS](https://www.solidjs.com/).
+- 🏗️ Building my own product (more details soon).
 - 🎲 Working on my own game using [Godot](https://godotengine.org/).
 - 💻 Using Windows 11 and Fedora 36 on an [Asus Zephyrus m16 2022](https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-m16-2022-series/).
 - 💿 Developing with [Visual Studio Code](https://code.visualstudio.com/) and [JetBrains Rider](https://www.jetbrains.com/rider/).
